@@ -1,5 +1,5 @@
 <h1>Apprenticeship Patterns</h1>
-![book cover](./assets/bookCover.jpg)
+![bookCover](./assets/bookCover.jpg)
 
 Recommended reading schedule: 2 chapters per week 
 
