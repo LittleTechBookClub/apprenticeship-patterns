@@ -1,5 +1,0 @@
-# Chapter 6: Construct Your Curriculum
-
-1. Look at your toolset. Languages, frameworks, testing tools. Are any outdated? Are they being replaced with emerging technology? How might you consider gaining the skills to stay up to date?
-2. What's the oldest technical book/resource you have read? Why? What did you learn?
-3. What books/resources are you interested in learning from next?
